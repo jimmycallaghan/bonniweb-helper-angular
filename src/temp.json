@@ -1,0 +1,2113 @@
+{
+  "courses": [
+    {
+      "id": 1544,
+      "fullname": "Cambridge Jgst. 8",
+      "shortname": "Cambridge Jgst. 8",
+      "timemodified": 1605515239,
+      "assignments": []
+    },
+    {
+      "id": 489,
+      "fullname": "Sch\u00fclervertretung (SV)",
+      "shortname": "SV-Bonni",
+      "timemodified": 1524740242,
+      "assignments": []
+    },
+    {
+      "id": 1232,
+      "fullname": "08c-Sport",
+      "shortname": "08c-Sp",
+      "timemodified": 1596457026,
+      "assignments": []
+    },
+    {
+      "id": 1231,
+      "fullname": "08c-Wirtschaft-Politik",
+      "shortname": "08c-Wp",
+      "timemodified": 1596457026,
+      "assignments": [
+        {
+          "id": 4108,
+          "cmid": 18764,
+          "course": 1231,
+          "name": "22.01.2021",
+          "nosubmissions": 0,
+          "submissiondrafts": 0,
+          "sendnotifications": 0,
+          "sendlatenotifications": 0,
+          "sendstudentnotifications": 1,
+          "duedate": 1611311100,
+          "allowsubmissionsfromdate": 1611306000,
+          "grade": 100,
+          "timemodified": 1611084029,
+          "completionsubmit": 0,
+          "cutoffdate": 1611342000,
+          "gradingduedate": 0,
+          "teamsubmission": 0,
+          "requireallteammemberssubmit": 0,
+          "teamsubmissiongroupingid": 0,
+          "blindmarking": 0,
+          "hidegrader": 0,
+          "revealidentities": 0,
+          "attemptreopenmethod": "none",
+          "maxattempts": -1,
+          "markingworkflow": 0,
+          "markingallocation": 0,
+          "requiresubmissionstatement": 0,
+          "preventsubmissionnotingroup": 0,
+          "configs": [
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxfilesubmissions",
+              "value": "2"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxsubmissionsizebytes",
+              "value": "346030080"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "filetypeslist",
+              "value": ".jpe,.jpeg,.jpg,.png,.odt,.pdf"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "commentinline",
+              "value": "0"
+            }
+          ],
+          "intro": "<p><p><sup><b>A b g a b e f r i s t<\/b>:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; am Stundenende 11:25 Uhr<\/sup><\/p><p><sup><b>L e t z t e&nbsp; &nbsp; A b g a b e m \u00f6 g l i c h k e i t:&nbsp;<\/b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; am Pausenende 13:30 Uhr&nbsp; &nbsp;&nbsp;<\/sup><\/p><br><p><\/p><p><br><\/p><p><\/p><p>A u f g a b e n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<\/p><p>(1)&nbsp;&nbsp;&nbsp;&nbsp;Betrachte das Foto auf der Doppelseite S. 32\/33. Es wurde w\u00e4hrend der Fu\u00dfball-WM 2006 in Deutschland aufgenommen. Dies ist f\u00fcr dich schon ein historisches Ereignis, deinen Eltern und mir ist die Stimmung die in diesem Sommer in Deutschland geherrscht hat aber noch pr\u00e4sent. Das Foto vermittelt einen Eindruck davon, wie die Stimmung an sehr vielen Spieltagen auf den Fan-Meilen der meisten deutschen St\u00e4dte war.<\/p><p>Beantworte spontan die Frage, was geschehen m\u00fcsste, damit das Verh\u00e4ltnis zwischen Deutschen und T\u00fcrken auch in unserem Alltag so freundschaftlich ist und notiere konkrete Vorschl\u00e4ge.<\/p><p>&nbsp;<\/p><p>(2)&nbsp;&nbsp;&nbsp;&nbsp;Ein sehr h\u00e4ufig geh\u00f6rter Satz lautet: \u201eMigranten kommen nur nach Deutschland, weil sie sich hier ein sch\u00f6nes Leben machen wollen.\u201c \u00d6ffne das Arbeitsblatt \u201eARBEITSBLATT_WP_Jg8_Migration und Integration_Migrationsgr\u00fcnde\u201c und lies die Texte auf der Doppelseite 34 und 35. Notiere auf dem Arbeitsblatt stichpunktartig<\/p><p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gr\u00fcnde, warum Asterios, Agnes und Familie Bro ihre Heimat verlassen haben.<\/p><p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;warum sie sich Deutschland als neue Heimat ausgesucht haben?<\/p><p>&nbsp;<\/p><p>(3)&nbsp;&nbsp;&nbsp;&nbsp;<i>\u201eMigranten kommen nur nach Deutschland, weil sie sich hier ein sch\u00f6nes Leben machen wollen.\u201c Bewerte dieses in Deutschland h\u00e4ufig ge\u00e4u\u00dferte Meinung vor dem Hintergrund der Fallbeispiele schriftlich.<\/i><\/p><br><\/p>",
+          "introformat": 1,
+          "introfiles": [],
+          "introattachments": []
+        }
+      ]
+    },
+    {
+      "id": 1229,
+      "fullname": "08c-Physik",
+      "shortname": "08c-Ph",
+      "timemodified": 1596457025,
+      "assignments": [
+        {
+          "id": 3343,
+          "cmid": 16523,
+          "course": 1229,
+          "name": "Goldene Regel der Mechanik",
+          "nosubmissions": 0,
+          "submissiondrafts": 0,
+          "sendnotifications": 0,
+          "sendlatenotifications": 0,
+          "sendstudentnotifications": 1,
+          "duedate": 1611356340,
+          "allowsubmissionsfromdate": 1610980500,
+          "grade": 100,
+          "timemodified": 1609951577,
+          "completionsubmit": 0,
+          "cutoffdate": 0,
+          "gradingduedate": 1611356400,
+          "teamsubmission": 0,
+          "requireallteammemberssubmit": 0,
+          "teamsubmissiongroupingid": 0,
+          "blindmarking": 0,
+          "hidegrader": 0,
+          "revealidentities": 0,
+          "attemptreopenmethod": "none",
+          "maxattempts": -1,
+          "markingworkflow": 0,
+          "markingallocation": 0,
+          "requiresubmissionstatement": 0,
+          "preventsubmissionnotingroup": 0,
+          "configs": [
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxfilesubmissions",
+              "value": "20"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxsubmissionsizebytes",
+              "value": "10485760"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "filetypeslist",
+              "value": ""
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "commentinline",
+              "value": "0"
+            }
+          ],
+          "intro": "<p>Abgabe bis 22.01.21<br><\/p>",
+          "introformat": 1,
+          "introfiles": [],
+          "introattachments": [
+            {
+              "filename": "\u00dcbungsblatt Goldene Regel der Mechanik.pdf",
+              "filepath": "\/",
+              "filesize": 118637,
+              "fileurl": "https:\/\/bonniweb.de\/moodle\/webservice\/pluginfile.php\/52636\/mod_assign\/introattachment\/0\/%C3%9Cbungsblatt%20Goldene%20Regel%20der%20Mechanik.pdf",
+              "timemodified": 1609951577,
+              "mimetype": "application\/pdf",
+              "isexternalfile": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1227,
+      "fullname": "08c-Mathematik",
+      "shortname": "08c-M",
+      "timemodified": 1596457025,
+      "assignments": [
+        {
+          "id": 3355,
+          "cmid": 16565,
+          "course": 1227,
+          "name": "KW 2: Arbeitsauftrag",
+          "nosubmissions": 0,
+          "submissiondrafts": 0,
+          "sendnotifications": 1,
+          "sendlatenotifications": 0,
+          "sendstudentnotifications": 1,
+          "duedate": 1610708400,
+          "allowsubmissionsfromdate": 0,
+          "grade": 0,
+          "timemodified": 1610021956,
+          "completionsubmit": 0,
+          "cutoffdate": 0,
+          "gradingduedate": 1610712000,
+          "teamsubmission": 0,
+          "requireallteammemberssubmit": 0,
+          "teamsubmissiongroupingid": 0,
+          "blindmarking": 0,
+          "hidegrader": 0,
+          "revealidentities": 0,
+          "attemptreopenmethod": "none",
+          "maxattempts": -1,
+          "markingworkflow": 0,
+          "markingallocation": 0,
+          "requiresubmissionstatement": 0,
+          "preventsubmissionnotingroup": 0,
+          "configs": [
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxfilesubmissions",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxsubmissionsizebytes",
+              "value": "346030080"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "filetypeslist",
+              "value": ".jpeg,.jpg,.png,.pdf"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "commentinline",
+              "value": "0"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            }
+          ],
+          "intro": "",
+          "introformat": 1,
+          "introfiles": [],
+          "introattachments": [
+            {
+              "filename": "Distanzlernen KW2.pdf",
+              "filepath": "\/",
+              "filesize": 492303,
+              "fileurl": "https:\/\/bonniweb.de\/moodle\/webservice\/pluginfile.php\/52687\/mod_assign\/introattachment\/0\/Distanzlernen%20KW2.pdf",
+              "timemodified": 1610021956,
+              "mimetype": "application\/pdf",
+              "isexternalfile": false
+            }
+          ]
+        },
+        {
+          "id": 3356,
+          "cmid": 16566,
+          "course": 1227,
+          "name": "KW 3: Arbeitsauftrag",
+          "nosubmissions": 0,
+          "submissiondrafts": 0,
+          "sendnotifications": 1,
+          "sendlatenotifications": 0,
+          "sendstudentnotifications": 1,
+          "duedate": 1611313200,
+          "allowsubmissionsfromdate": 0,
+          "grade": 0,
+          "timemodified": 1610546033,
+          "completionsubmit": 0,
+          "cutoffdate": 0,
+          "gradingduedate": 1611316800,
+          "teamsubmission": 0,
+          "requireallteammemberssubmit": 0,
+          "teamsubmissiongroupingid": 0,
+          "blindmarking": 0,
+          "hidegrader": 0,
+          "revealidentities": 0,
+          "attemptreopenmethod": "none",
+          "maxattempts": -1,
+          "markingworkflow": 0,
+          "markingallocation": 0,
+          "requiresubmissionstatement": 0,
+          "preventsubmissionnotingroup": 0,
+          "configs": [
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxfilesubmissions",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxsubmissionsizebytes",
+              "value": "346030080"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "filetypeslist",
+              "value": ".jpeg,.jpg,.png,.pdf"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "commentinline",
+              "value": "0"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            }
+          ],
+          "intro": "<p>Diese Woche wollen wir das <span>Rechnen mit Kreisteilen<\/span> weiter \u00fcben und vertiefen. Bearbeite dazu die nachfolgenden \u00dcbungsaufgaben und lade deine Ergebnisse bis <b>s<\/b><b>p\u00e4testens Freitag, 22.01.2021 um 12 Uhr&nbsp;<\/b>im Bonniweb als <u>eine<\/u>&nbsp;Datei (PDF oder jpeg\/png) hoch.<br><p>Falls noch nicht geschehen: Kontrolliere deine Ergebnisse der letzten\r\nWoche mit der Musterl\u00f6sung\r\nim Bonniweb.<\/p><\/p><p><\/p><p align=\"left\"><u>Rechnen mit Variablen<br><\/u><span style=\"font-size: 0.95rem;\"><span style=\"font-size: 0.95rem;\">S. 91 Nr. 5<br><\/span><\/span><span style=\"font-size: 0.95rem;\">S. 91 Nr. 6<\/span><\/p><p align=\"left\"><span style=\"font-size: 0.95rem;\"><\/span><\/p><p align=\"left\"><i style=\"font-size: 0.95rem;\">Hinweise zu Aufgabe 5:<br><i style=\"font-size: 0.95rem;\">Zu 5a):&nbsp;<br>Stelle\r\nallgemeine Gleichungen auf (d.h. A=\u2026, wobei die Seitenl\u00e4nge des Quadrates a\r\nbeliebig ist und als Variable stehen bleibt!).<\/i><\/i><\/p><p align=\"left\"><i style=\"font-size: 0.95rem;\">Zu 5b)<br>L\u00f6se die\r\nGleichungen aus Aufgabe 5a) f\u00fcr A=20 cm^2. \u00dcberlege dazu, wie du die Gleichungen\r\nnach a umformen kannst!<\/i><\/p>\r\n\r\n<p align=\"left\"><u style=\"font-size: 0.95rem;\">Anwendungsaufgaben<br><\/u><span style=\"font-size: 0.95rem;\">S. 92 Nr. 10<br><\/span><span style=\"font-size: 0.95rem;\">S. 92 Nr. 12<\/span><\/p><p><\/p><p><\/p>",
+          "introformat": 1,
+          "introfiles": [],
+          "introattachments": []
+        }
+      ]
+    },
+    {
+      "id": 1226,
+      "fullname": "08c-Geschichte",
+      "shortname": "08c-Ge",
+      "timemodified": 1596457025,
+      "assignments": [
+        {
+          "id": 4099,
+          "cmid": 18731,
+          "course": 1226,
+          "name": "Mittwoch 20.1",
+          "nosubmissions": 0,
+          "submissiondrafts": 0,
+          "sendnotifications": 0,
+          "sendlatenotifications": 0,
+          "sendstudentnotifications": 1,
+          "duedate": 1611169200,
+          "allowsubmissionsfromdate": 1611126000,
+          "grade": 100,
+          "timemodified": 1611075190,
+          "completionsubmit": 0,
+          "cutoffdate": 0,
+          "gradingduedate": 1612220400,
+          "teamsubmission": 0,
+          "requireallteammemberssubmit": 0,
+          "teamsubmissiongroupingid": 0,
+          "blindmarking": 0,
+          "hidegrader": 0,
+          "revealidentities": 0,
+          "attemptreopenmethod": "none",
+          "maxattempts": -1,
+          "markingworkflow": 0,
+          "markingallocation": 0,
+          "requiresubmissionstatement": 0,
+          "preventsubmissionnotingroup": 0,
+          "configs": [
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxfilesubmissions",
+              "value": "20"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxsubmissionsizebytes",
+              "value": "346030080"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "filetypeslist",
+              "value": ""
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "commentinline",
+              "value": "0"
+            }
+          ],
+          "intro": "<h4>Warum erobern die Gro\u00dfm\u00e4chte die Welt?<\/h4><p>Verschaffe dir mithilfe des Padlets und eurer Ergebnisse zun\u00e4chst einen \u00dcberblick. Lies dann S. 226-227 im Geschichtsbuch und urteile schriftlich:<\/p><p>a.) wie lassen sich die \u00dcbereinstimmungen und Unterschiede der zeitgen\u00f6ssischen Wertvorstellung erkl\u00e4ren?<\/p><p>b.) wie bewertest du die Argumente aus heutiger Sicht?<\/p>",
+          "introformat": 1,
+          "introfiles": [],
+          "introattachments": []
+        }
+      ]
+    },
+    {
+      "id": 1222,
+      "fullname": "08c-Erdkunde",
+      "shortname": "08c-Ek",
+      "timemodified": 1596457025,
+      "assignments": []
+    },
+    {
+      "id": 1221,
+      "fullname": "08c-Englisch",
+      "shortname": "08c-E5",
+      "timemodified": 1596457025,
+      "assignments": [
+        {
+          "id": 3219,
+          "cmid": 16082,
+          "course": 1221,
+          "name": "California - Short Presentation",
+          "nosubmissions": 0,
+          "submissiondrafts": 1,
+          "sendnotifications": 0,
+          "sendlatenotifications": 0,
+          "sendstudentnotifications": 1,
+          "duedate": 1610233200,
+          "allowsubmissionsfromdate": 1607986800,
+          "grade": 100,
+          "timemodified": 1608058666,
+          "completionsubmit": 0,
+          "cutoffdate": 0,
+          "gradingduedate": 1640732400,
+          "teamsubmission": 0,
+          "requireallteammemberssubmit": 0,
+          "teamsubmissiongroupingid": 0,
+          "blindmarking": 0,
+          "hidegrader": 0,
+          "revealidentities": 0,
+          "attemptreopenmethod": "none",
+          "maxattempts": -1,
+          "markingworkflow": 0,
+          "markingallocation": 0,
+          "requiresubmissionstatement": 0,
+          "preventsubmissionnotingroup": 0,
+          "configs": [
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxfilesubmissions",
+              "value": "20"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxsubmissionsizebytes",
+              "value": "346030080"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "filetypeslist",
+              "value": ""
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "commentinline",
+              "value": "0"
+            }
+          ],
+          "intro": "",
+          "introformat": 1,
+          "introfiles": [],
+          "introattachments": [
+            {
+              "filename": "Session_8.3.0.pdf",
+              "filepath": "\/",
+              "filesize": 75467,
+              "fileurl": "https:\/\/bonniweb.de\/moodle\/webservice\/pluginfile.php\/52015\/mod_assign\/introattachment\/0\/Session_8.3.0.pdf",
+              "timemodified": 1608058666,
+              "mimetype": "application\/pdf",
+              "isexternalfile": false
+            }
+          ]
+        },
+        {
+          "id": 3516,
+          "cmid": 17032,
+          "course": 1221,
+          "name": "Arbeitsmaterial f\u00fcr den 11.01.2021",
+          "nosubmissions": 0,
+          "submissiondrafts": 1,
+          "sendnotifications": 0,
+          "sendlatenotifications": 0,
+          "sendstudentnotifications": 1,
+          "duedate": 1642201200,
+          "allowsubmissionsfromdate": 1610319600,
+          "grade": 100,
+          "timemodified": 1610536850,
+          "completionsubmit": 0,
+          "cutoffdate": 0,
+          "gradingduedate": 0,
+          "teamsubmission": 0,
+          "requireallteammemberssubmit": 0,
+          "teamsubmissiongroupingid": 0,
+          "blindmarking": 0,
+          "hidegrader": 0,
+          "revealidentities": 0,
+          "attemptreopenmethod": "none",
+          "maxattempts": -1,
+          "markingworkflow": 0,
+          "markingallocation": 0,
+          "requiresubmissionstatement": 0,
+          "preventsubmissionnotingroup": 0,
+          "configs": [
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxfilesubmissions",
+              "value": "20"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxsubmissionsizebytes",
+              "value": "346030080"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "filetypeslist",
+              "value": ""
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "commentinline",
+              "value": "0"
+            }
+          ],
+          "intro": "<p>UPDATE 13.01.2021<\/p><p>Abgabefrist aufgrund der Problme mit dem Bonniweb auch noch nach dem 15.01. m\u00f6glich. Bleibt trotzdem am Ball und erledigt eure Aufgaben zeitnah!<br><\/p>",
+          "introformat": 1,
+          "introfiles": [],
+          "introattachments": [
+            {
+              "filename": "Session_8.3.1.pdf",
+              "filepath": "\/",
+              "filesize": 171586,
+              "fileurl": "https:\/\/bonniweb.de\/moodle\/webservice\/pluginfile.php\/53297\/mod_assign\/introattachment\/0\/Session_8.3.1.pdf",
+              "timemodified": 1610352206,
+              "mimetype": "application\/pdf",
+              "isexternalfile": false
+            }
+          ]
+        },
+        {
+          "id": 3959,
+          "cmid": 18328,
+          "course": 1221,
+          "name": "Aufgabe f\u00fcr den 18.01.2021",
+          "nosubmissions": 0,
+          "submissiondrafts": 1,
+          "sendnotifications": 0,
+          "sendlatenotifications": 0,
+          "sendstudentnotifications": 1,
+          "duedate": 1611270000,
+          "allowsubmissionsfromdate": 1610924400,
+          "grade": 100,
+          "timemodified": 1610952314,
+          "completionsubmit": 0,
+          "cutoffdate": 1642488060,
+          "gradingduedate": 0,
+          "teamsubmission": 0,
+          "requireallteammemberssubmit": 0,
+          "teamsubmissiongroupingid": 0,
+          "blindmarking": 0,
+          "hidegrader": 0,
+          "revealidentities": 0,
+          "attemptreopenmethod": "none",
+          "maxattempts": -1,
+          "markingworkflow": 0,
+          "markingallocation": 0,
+          "requiresubmissionstatement": 0,
+          "preventsubmissionnotingroup": 0,
+          "configs": [
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxfilesubmissions",
+              "value": "20"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxsubmissionsizebytes",
+              "value": "346030080"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "filetypeslist",
+              "value": ""
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "commentinline",
+              "value": "0"
+            }
+          ],
+          "intro": "<p>Nota bene: <br><\/p><p>Nicht alle Aufgaben sammel ich von allen ab. Manche erfrage ich per Benachrichtigung von einzelnen Sch\u00fclerinnen und Sch\u00fclern. <br><\/p><p>Nur wenn, wie in diesem Fall, eine Aufgabe mit Abgabefrist von mir ins Bonniweb gesteellt wurde, muss diese von allen abgegeben werden. Aufgaben werden bewertet und flie\u00dfen in die Benotung des zweiten Halbjahres ein, da ich die Noten f\u00fcr das erste Halbjahr bereits eingetragen habe.<br><\/p>",
+          "introformat": 1,
+          "introfiles": [],
+          "introattachments": [
+            {
+              "filename": "Session_8.3.3_Cal_teens.pdf",
+              "filepath": "\/",
+              "filesize": 625504,
+              "fileurl": "https:\/\/bonniweb.de\/moodle\/webservice\/pluginfile.php\/55043\/mod_assign\/introattachment\/0\/Session_8.3.3_Cal_teens.pdf",
+              "timemodified": 1610952314,
+              "mimetype": "application\/pdf",
+              "isexternalfile": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1220,
+      "fullname": "08c-Deutsch",
+      "shortname": "08c-D",
+      "timemodified": 1596457025,
+      "assignments": [
+        {
+          "id": 3464,
+          "cmid": 16917,
+          "course": 1220,
+          "name": "Ladet eure Aufzeichnungen und Ergebnisse aus dieser Woche als Datei hoch",
+          "nosubmissions": 0,
+          "submissiondrafts": 0,
+          "sendnotifications": 0,
+          "sendlatenotifications": 0,
+          "sendstudentnotifications": 1,
+          "duedate": 1610730000,
+          "allowsubmissionsfromdate": 1610348400,
+          "grade": 100,
+          "timemodified": 1610293095,
+          "completionsubmit": 0,
+          "cutoffdate": 0,
+          "gradingduedate": 1611442800,
+          "teamsubmission": 0,
+          "requireallteammemberssubmit": 0,
+          "teamsubmissiongroupingid": 0,
+          "blindmarking": 0,
+          "hidegrader": 0,
+          "revealidentities": 0,
+          "attemptreopenmethod": "none",
+          "maxattempts": -1,
+          "markingworkflow": 0,
+          "markingallocation": 0,
+          "requiresubmissionstatement": 0,
+          "preventsubmissionnotingroup": 0,
+          "configs": [
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxfilesubmissions",
+              "value": "20"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxsubmissionsizebytes",
+              "value": "346030080"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "filetypeslist",
+              "value": ""
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "commentinline",
+              "value": "0"
+            }
+          ],
+          "intro": "<p>Damit ich einen \u00dcberblick dar\u00fcber bekomme, was ihr im Laufe der Woche gemacht habt, bitte ich euch die Ergebnisse in Form<b> einer PDF Datei <\/b>hochzuladen. Fotografierte, handschriftliche Aufzeichnungen werde ich nicht ber\u00fccksichtigen und als nicht abgegeben notieren.<\/p>",
+          "introformat": 1,
+          "introfiles": [],
+          "introattachments": []
+        },
+        {
+          "id": 4097,
+          "cmid": 18729,
+          "course": 1220,
+          "name": "Mittwoch 20.1",
+          "nosubmissions": 0,
+          "submissiondrafts": 0,
+          "sendnotifications": 0,
+          "sendlatenotifications": 0,
+          "sendstudentnotifications": 1,
+          "duedate": 1611169200,
+          "allowsubmissionsfromdate": 1611126000,
+          "grade": 100,
+          "timemodified": 1611074731,
+          "completionsubmit": 0,
+          "cutoffdate": 0,
+          "gradingduedate": 1612220400,
+          "teamsubmission": 0,
+          "requireallteammemberssubmit": 0,
+          "teamsubmissiongroupingid": 0,
+          "blindmarking": 0,
+          "hidegrader": 0,
+          "revealidentities": 0,
+          "attemptreopenmethod": "none",
+          "maxattempts": -1,
+          "markingworkflow": 0,
+          "markingallocation": 0,
+          "requiresubmissionstatement": 0,
+          "preventsubmissionnotingroup": 0,
+          "configs": [
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxfilesubmissions",
+              "value": "20"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxsubmissionsizebytes",
+              "value": "346030080"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "filetypeslist",
+              "value": ""
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "commentinline",
+              "value": "0"
+            }
+          ],
+          "intro": "<p>Unmittelbar nach der Unterredung mit Attinghausen schreibt Rudenz einen Brief an Berta von Bruneck, in dem er seine Auffassung erl\u00e4utert und begr\u00fcndet. Schreibe diesen Brief.<br><\/p>",
+          "introformat": 1,
+          "introfiles": [],
+          "introattachments": []
+        }
+      ]
+    },
+    {
+      "id": 1219,
+      "fullname": "08c-Chemie",
+      "shortname": "08c-Ch",
+      "timemodified": 1596457025,
+      "assignments": [
+        {
+          "id": 4171,
+          "cmid": 18981,
+          "course": 1219,
+          "name": "Batterien und Akkumulatoren",
+          "nosubmissions": 0,
+          "submissiondrafts": 0,
+          "sendnotifications": 0,
+          "sendlatenotifications": 0,
+          "sendstudentnotifications": 1,
+          "duedate": 1611269940,
+          "allowsubmissionsfromdate": 1611183600,
+          "grade": 100,
+          "timemodified": 1611164655,
+          "completionsubmit": 0,
+          "cutoffdate": 0,
+          "gradingduedate": 0,
+          "teamsubmission": 0,
+          "requireallteammemberssubmit": 0,
+          "teamsubmissiongroupingid": 0,
+          "blindmarking": 0,
+          "hidegrader": 0,
+          "revealidentities": 0,
+          "attemptreopenmethod": "none",
+          "maxattempts": -1,
+          "markingworkflow": 0,
+          "markingallocation": 0,
+          "requiresubmissionstatement": 0,
+          "preventsubmissionnotingroup": 0,
+          "configs": [
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxfilesubmissions",
+              "value": "20"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxsubmissionsizebytes",
+              "value": "346030080"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "filetypeslist",
+              "value": ""
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "commentinline",
+              "value": "0"
+            }
+          ],
+          "intro": "<p>Heute erarbeitet Ihr Euch schon einmal die Grundlagen einer Batterie:<\/p><p>Buch S. 246\/247 lesen und A1 sch\u00f6n gro\u00df und beschriftet.<\/p><p>LG<br><\/p>",
+          "introformat": 1,
+          "introfiles": [],
+          "introattachments": []
+        }
+      ]
+    },
+    {
+      "id": 1218,
+      "fullname": "08c-Biologie",
+      "shortname": "08c-Bi",
+      "timemodified": 1596457025,
+      "assignments": [
+        {
+          "id": 3390,
+          "cmid": 16640,
+          "course": 1218,
+          "name": "Lernen und Ged\u00e4chtnis ",
+          "nosubmissions": 0,
+          "submissiondrafts": 0,
+          "sendnotifications": 0,
+          "sendlatenotifications": 0,
+          "sendstudentnotifications": 1,
+          "duedate": 1610722800,
+          "allowsubmissionsfromdate": 0,
+          "grade": 100,
+          "timemodified": 1610358974,
+          "completionsubmit": 0,
+          "cutoffdate": 0,
+          "gradingduedate": 1611270000,
+          "teamsubmission": 0,
+          "requireallteammemberssubmit": 0,
+          "teamsubmissiongroupingid": 0,
+          "blindmarking": 0,
+          "hidegrader": 0,
+          "revealidentities": 0,
+          "attemptreopenmethod": "none",
+          "maxattempts": -1,
+          "markingworkflow": 0,
+          "markingallocation": 0,
+          "requiresubmissionstatement": 0,
+          "preventsubmissionnotingroup": 0,
+          "configs": [
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxfilesubmissions",
+              "value": "20"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxsubmissionsizebytes",
+              "value": "346030080"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "filetypeslist",
+              "value": ""
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "commentinline",
+              "value": "0"
+            }
+          ],
+          "intro": "<p>Liebe 8c,&nbsp;<br><br>ich w\u00fcnsche euch ein frohes neues Jahr und alles Gute f\u00fcr 2021 :)&nbsp;<br><br>Diese Woche werden wir uns mit dem Thema Lernen und Ged\u00e4chtnis besch\u00e4ftigen. Schaut euch hierzu einfach das Dokument an.&nbsp;<\/p><p>Hinweis: Die schriftlich zu bearbeitenden Aufgaben sind abzugeben.&nbsp;<br><br>Viel Spa\u00df!&nbsp;<br><\/p>",
+          "introformat": 1,
+          "introfiles": [],
+          "introattachments": [
+            {
+              "filename": "PPT_Lernen und Ged\u00e4chtnis.pdf",
+              "filepath": "\/",
+              "filesize": 2960430,
+              "fileurl": "https:\/\/bonniweb.de\/moodle\/webservice\/pluginfile.php\/52814\/mod_assign\/introattachment\/0\/PPT_Lernen%20und%20Ged%C3%A4chtnis.pdf",
+              "timemodified": 1610181856,
+              "mimetype": "application\/pdf",
+              "isexternalfile": false
+            }
+          ]
+        },
+        {
+          "id": 3548,
+          "cmid": 17116,
+          "course": 1218,
+          "name": "Abgabe",
+          "nosubmissions": 0,
+          "submissiondrafts": 0,
+          "sendnotifications": 0,
+          "sendlatenotifications": 0,
+          "sendstudentnotifications": 1,
+          "duedate": 1611327600,
+          "allowsubmissionsfromdate": 0,
+          "grade": 100,
+          "timemodified": 1610358757,
+          "completionsubmit": 0,
+          "cutoffdate": 0,
+          "gradingduedate": 1611529200,
+          "teamsubmission": 0,
+          "requireallteammemberssubmit": 0,
+          "teamsubmissiongroupingid": 0,
+          "blindmarking": 0,
+          "hidegrader": 0,
+          "revealidentities": 0,
+          "attemptreopenmethod": "none",
+          "maxattempts": -1,
+          "markingworkflow": 0,
+          "markingallocation": 0,
+          "requiresubmissionstatement": 0,
+          "preventsubmissionnotingroup": 0,
+          "configs": [
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxfilesubmissions",
+              "value": "20"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxsubmissionsizebytes",
+              "value": "346030080"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "filetypeslist",
+              "value": ""
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "commentinline",
+              "value": "0"
+            }
+          ],
+          "intro": "",
+          "introformat": 1,
+          "introfiles": [],
+          "introattachments": []
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "fullname": "Klasse 8c",
+      "shortname": "08c",
+      "timemodified": 1524151637,
+      "assignments": []
+    },
+    {
+      "id": 1239,
+      "fullname": "08-Katholische Religion_Kem",
+      "shortname": "08-Kr_Kem",
+      "timemodified": 1596457026,
+      "assignments": [
+        {
+          "id": 3265,
+          "cmid": 16192,
+          "course": 1239,
+          "name": "17. Dezember 2020",
+          "nosubmissions": 0,
+          "submissiondrafts": 0,
+          "sendnotifications": 0,
+          "sendlatenotifications": 0,
+          "sendstudentnotifications": 1,
+          "duedate": 1608656400,
+          "allowsubmissionsfromdate": 1608192000,
+          "grade": 100,
+          "timemodified": 1608130372,
+          "completionsubmit": 0,
+          "cutoffdate": 1608656400,
+          "gradingduedate": 0,
+          "teamsubmission": 0,
+          "requireallteammemberssubmit": 0,
+          "teamsubmissiongroupingid": 0,
+          "blindmarking": 0,
+          "hidegrader": 0,
+          "revealidentities": 0,
+          "attemptreopenmethod": "none",
+          "maxattempts": -1,
+          "markingworkflow": 0,
+          "markingallocation": 0,
+          "requiresubmissionstatement": 0,
+          "preventsubmissionnotingroup": 0,
+          "configs": [
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxfilesubmissions",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxsubmissionsizebytes",
+              "value": "346030080"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "filetypeslist",
+              "value": ""
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "commentinline",
+              "value": "0"
+            }
+          ],
+          "intro": "<p><p>Ihr Lieben,<\/p><p>nun haben wir \r\nleider keine Gelegenheit mehr, das Jahr mit einer gemeinsamen \r\nReligionsstunde zu beenden. Das ist wirklich sehr schade, aber angesichts der Situation leider notwendig.<\/p><p>So bekommt Ihr die Aufgabe f\u00fcr die letzte Stunde eben digital. Es geht um die Weihnachtsgeschichte nach Lukas. Bitte lest Lk 2, 1 - 20 und beantwortet die Fragen, die Ihr im Anhang findet. Damit Euch die Antwort nicht ganz so schwer f\u00e4llt, gibt es auch noch Erl\u00e4uterungen dazu. Bitte schickt mir die Aufgabe bis Dienstag zu.<\/p><p>Ich w\u00fcnsche Euch und Euren Familien ein frohes, gesegnetes Weihnachtsfest, sch\u00f6ne Ferien und alles Gute f\u00fcr das Neue Jahr. Vor allem: Bleibt gesund.<\/p><p>Bis 2021 ganz herzliche Gr\u00fc\u00dfe,<\/p><p>Christiane Kempkes<br><\/p><br><\/p>",
+          "introformat": 1,
+          "introfiles": [],
+          "introattachments": [
+            {
+              "filename": "Fragen zu Lk 2, 1 - 20.odt",
+              "filepath": "\/",
+              "filesize": 14597,
+              "fileurl": "https:\/\/bonniweb.de\/moodle\/webservice\/pluginfile.php\/52179\/mod_assign\/introattachment\/0\/Fragen%20zu%20Lk%202%2C%201%20-%2020.odt",
+              "timemodified": 1608130372,
+              "mimetype": "application\/vnd.oasis.opendocument.text",
+              "isexternalfile": false
+            },
+            {
+              "filename": "Weihnachten Erl\u00e4uterungen Lk 1.jpg",
+              "filepath": "\/",
+              "filesize": 1163491,
+              "fileurl": "https:\/\/bonniweb.de\/moodle\/webservice\/pluginfile.php\/52179\/mod_assign\/introattachment\/0\/Weihnachten%20Erl%C3%A4uterungen%20Lk%201.jpg",
+              "timemodified": 1608130372,
+              "mimetype": "image\/jpeg",
+              "isexternalfile": false
+            },
+            {
+              "filename": "Weihnachten Erl\u00e4uterungen Lk 2.jpg",
+              "filepath": "\/",
+              "filesize": 555109,
+              "fileurl": "https:\/\/bonniweb.de\/moodle\/webservice\/pluginfile.php\/52179\/mod_assign\/introattachment\/0\/Weihnachten%20Erl%C3%A4uterungen%20Lk%202.jpg",
+              "timemodified": 1608130372,
+              "mimetype": "image\/jpeg",
+              "isexternalfile": false
+            }
+          ]
+        },
+        {
+          "id": 4161,
+          "cmid": 18931,
+          "course": 1239,
+          "name": "Aufgabe f\u00fcr 21. Januar",
+          "nosubmissions": 0,
+          "submissiondrafts": 0,
+          "sendnotifications": 0,
+          "sendlatenotifications": 0,
+          "sendstudentnotifications": 1,
+          "duedate": 1611939600,
+          "allowsubmissionsfromdate": 1611216000,
+          "grade": 100,
+          "timemodified": 1611156362,
+          "completionsubmit": 0,
+          "cutoffdate": 1611939600,
+          "gradingduedate": 0,
+          "teamsubmission": 0,
+          "requireallteammemberssubmit": 0,
+          "teamsubmissiongroupingid": 0,
+          "blindmarking": 0,
+          "hidegrader": 0,
+          "revealidentities": 0,
+          "attemptreopenmethod": "none",
+          "maxattempts": -1,
+          "markingworkflow": 0,
+          "markingallocation": 0,
+          "requiresubmissionstatement": 0,
+          "preventsubmissionnotingroup": 0,
+          "configs": [
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxfilesubmissions",
+              "value": "3"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxsubmissionsizebytes",
+              "value": "346030080"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "filetypeslist",
+              "value": ""
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "commentinline",
+              "value": "0"
+            }
+          ],
+          "intro": "",
+          "introformat": 1,
+          "introfiles": [],
+          "introattachments": [
+            {
+              "filename": "Aufgabe 21. Januar.pdf",
+              "filepath": "\/",
+              "filesize": 31007,
+              "fileurl": "https:\/\/bonniweb.de\/moodle\/webservice\/pluginfile.php\/55810\/mod_assign\/introattachment\/0\/Aufgabe%2021.%20Januar.pdf",
+              "timemodified": 1611156362,
+              "mimetype": "application\/pdf",
+              "isexternalfile": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1228,
+      "fullname": "08-Musik_Sto",
+      "shortname": "08-Mu_Sto",
+      "timemodified": 1596457025,
+      "assignments": [
+        {
+          "id": 3693,
+          "cmid": 17502,
+          "course": 1228,
+          "name": "Ludwig van Beethoven",
+          "nosubmissions": 0,
+          "submissiondrafts": 0,
+          "sendnotifications": 0,
+          "sendlatenotifications": 0,
+          "sendstudentnotifications": 1,
+          "duedate": 1610719200,
+          "allowsubmissionsfromdate": 1610533800,
+          "grade": 100,
+          "timemodified": 1610469903,
+          "completionsubmit": 0,
+          "cutoffdate": 0,
+          "gradingduedate": 0,
+          "teamsubmission": 0,
+          "requireallteammemberssubmit": 0,
+          "teamsubmissiongroupingid": 0,
+          "blindmarking": 0,
+          "hidegrader": 0,
+          "revealidentities": 0,
+          "attemptreopenmethod": "none",
+          "maxattempts": -1,
+          "markingworkflow": 0,
+          "markingallocation": 0,
+          "requiresubmissionstatement": 0,
+          "preventsubmissionnotingroup": 0,
+          "configs": [
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxfilesubmissions",
+              "value": "20"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxsubmissionsizebytes",
+              "value": "346030080"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "filetypeslist",
+              "value": ""
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "commentinline",
+              "value": "0"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            }
+          ],
+          "intro": "<p>Hallo liebe Sch\u00fclerinnen und Sch\u00fcler der 8c,<\/p><p>hier eine Aufgabe zu Beethoven im Anhang . Die Aufgabe bitte bis Freitag, 15.1.21 um 15 Uhr abgeben.<\/p><p>Viel Erfolg.<\/p><p>Ist nicht so schwer ;)<\/p>",
+          "introformat": 1,
+          "introfiles": [],
+          "introattachments": [
+            {
+              "filename": "12.1.21. MU 8 Beethoven 1.pdf",
+              "filepath": "\/",
+              "filesize": 300517,
+              "fileurl": "https:\/\/bonniweb.de\/moodle\/webservice\/pluginfile.php\/53884\/mod_assign\/introattachment\/0\/12.1.21.%20MU%208%20Beethoven%201.pdf",
+              "timemodified": 1610469903,
+              "mimetype": "application\/pdf",
+              "isexternalfile": false
+            },
+            {
+              "filename": "12.1.21. MU 8 Beethoven 2.pdf",
+              "filepath": "\/",
+              "filesize": 292154,
+              "fileurl": "https:\/\/bonniweb.de\/moodle\/webservice\/pluginfile.php\/53884\/mod_assign\/introattachment\/0\/12.1.21.%20MU%208%20Beethoven%202.pdf",
+              "timemodified": 1610469903,
+              "mimetype": "application\/pdf",
+              "isexternalfile": false
+            }
+          ]
+        },
+        {
+          "id": 4088,
+          "cmid": 18682,
+          "course": 1228,
+          "name": "Film zu Beethoven",
+          "nosubmissions": 0,
+          "submissiondrafts": 0,
+          "sendnotifications": 0,
+          "sendlatenotifications": 0,
+          "sendstudentnotifications": 1,
+          "duedate": 1611748800,
+          "allowsubmissionsfromdate": 1611097200,
+          "grade": 100,
+          "timemodified": 1611067239,
+          "completionsubmit": 0,
+          "cutoffdate": 0,
+          "gradingduedate": 0,
+          "teamsubmission": 0,
+          "requireallteammemberssubmit": 0,
+          "teamsubmissiongroupingid": 0,
+          "blindmarking": 0,
+          "hidegrader": 0,
+          "revealidentities": 0,
+          "attemptreopenmethod": "none",
+          "maxattempts": -1,
+          "markingworkflow": 0,
+          "markingallocation": 0,
+          "requiresubmissionstatement": 0,
+          "preventsubmissionnotingroup": 0,
+          "configs": [
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxfilesubmissions",
+              "value": "20"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxsubmissionsizebytes",
+              "value": "346030080"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "filetypeslist",
+              "value": ""
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "commentinline",
+              "value": "0"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            }
+          ],
+          "intro": "<p><\/p><p>Liebe Sch\u00fclerinnen und Sch\u00fcler der 8c,<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>jetzt geht es mit einem Film weiter, den kennt ihr noch\r\nnicht.<\/p>\r\n\r\n<p>Schaut erstmal nur einen <b>Ausschnitt und zwar vom Beginn bis min.16:00 und beantworte folgende\r\nFragen, die sich chronologisch an den Ausschnitt halten, dazu:<\/b><\/p>\r\n\r\n<p><!--[if !supportLists]-->1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n<!--[endif]-->Nenne die Titel der bekanntesten Werke\r\nBeethovens. (Eins kennst du aus der letzten Stunde ;).<\/p>\r\n\r\n<p><!--[if !supportLists]-->2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n<!--[endif]-->Stichworte zu Jugend, Familie und Studium<\/p>\r\n\r\n<p><!--[if !supportLists]-->3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n<!--[endif]-->Stichworte zu seinem Charakter (als Erwachsener)<\/p>\r\n\r\n<p><!--[if !supportLists]-->4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n<!--[endif]-->Was macht seine Musik einzigartig?(ab min.ca.\r\n5:50)<\/p>\r\n\r\n<p><!--[if !supportLists]-->5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n<!--[endif]-->Welche Eindr\u00fccke vermittelt das Portrait (Bild)\r\nBeethovens?<\/p>\r\n\r\n<p><!--[if !supportLists]-->6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n<!--[endif]-->&nbsp;Warum zog\r\nBeethoven so oft um?<\/p>\r\n\r\n<p><!--[if !supportLists]-->7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n<!--[endif]-->War er einsam?<\/p>\r\n\r\n<p><!--[if !supportLists]-->8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n<!--[endif]-->1789 war die Franz\u00f6sische Revolution.<\/p>\r\n\r\n<p>In welchem Widerspruch stand Beethoven als\r\nB\u00fcrgerlicher und welche Tr\u00e4ume von einer anderen Gesellschaft hatte er?<\/p><p>Viel Erfolg!<\/p><p>Hier der link zum Film:<\/p><p><br><\/p><p><br><\/p><p><p>https:\/\/www.planet-wissen.de\/video-beethoven--ein-klassiker-fuer-die-ewigkeit-100.html<\/p><br><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p><br><p><\/p>",
+          "introformat": 1,
+          "introfiles": [],
+          "introattachments": []
+        }
+      ]
+    },
+    {
+      "id": 1209,
+      "fullname": "08-Franz\u00f6sisch_Pol",
+      "shortname": "08-F6_Pol",
+      "timemodified": 1596457024,
+      "assignments": [
+        {
+          "id": 4049,
+          "cmid": 18586,
+          "course": 1209,
+          "name": "Unterricht am 19.01.2021",
+          "nosubmissions": 0,
+          "submissiondrafts": 0,
+          "sendnotifications": 0,
+          "sendlatenotifications": 0,
+          "sendstudentnotifications": 1,
+          "duedate": 1611221100,
+          "allowsubmissionsfromdate": 0,
+          "grade": 100,
+          "timemodified": 1611147455,
+          "completionsubmit": 0,
+          "cutoffdate": 1611221700,
+          "gradingduedate": 0,
+          "teamsubmission": 0,
+          "requireallteammemberssubmit": 0,
+          "teamsubmissiongroupingid": 0,
+          "blindmarking": 0,
+          "hidegrader": 0,
+          "revealidentities": 0,
+          "attemptreopenmethod": "none",
+          "maxattempts": -1,
+          "markingworkflow": 0,
+          "markingallocation": 0,
+          "requiresubmissionstatement": 0,
+          "preventsubmissionnotingroup": 0,
+          "configs": [
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxfilesubmissions",
+              "value": "20"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxsubmissionsizebytes",
+              "value": "346030080"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "filetypeslist",
+              "value": ""
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "commentinline",
+              "value": "0"
+            }
+          ],
+          "intro": "<p>Chers \u00e9l\u00e8ves!<\/p><p>Bitte schaut euch das Video von gestern zu den reflexiven Verben nochmal und bearbeitet anschlie\u00dfend das \u00dcbungsblatt. Davon bitte wie immer ein Foto hochladen.<br><\/p>",
+          "introformat": 1,
+          "introfiles": [],
+          "introattachments": [
+            {
+              "filename": "Grammatik f\u00fcr Anf\u00e4nger Die Reflexivpronomen (1).pdf",
+              "filepath": "\/",
+              "filesize": 1099112,
+              "fileurl": "https:\/\/bonniweb.de\/moodle\/webservice\/pluginfile.php\/55355\/mod_assign\/introattachment\/0\/Grammatik%20f%C3%BCr%20Anf%C3%A4nger%20Die%20Reflexivpronomen%20%281%29.pdf",
+              "timemodified": 1611041089,
+              "mimetype": "application\/pdf",
+              "isexternalfile": false
+            },
+            {
+              "filename": "Reflexive Verben (Franz\u00f6sisch).mp4",
+              "filepath": "\/",
+              "filesize": 29433012,
+              "fileurl": "https:\/\/bonniweb.de\/moodle\/webservice\/pluginfile.php\/55355\/mod_assign\/introattachment\/0\/Reflexive%20Verben%20%28Franz%C3%B6sisch%29.mp4",
+              "timemodified": 1611147455,
+              "mimetype": "video\/mp4",
+              "isexternalfile": false
+            }
+          ]
+        },
+        {
+          "id": 4207,
+          "cmid": 19053,
+          "course": 1209,
+          "name": "Unterricht am 21.01.2021",
+          "nosubmissions": 0,
+          "submissiondrafts": 0,
+          "sendnotifications": 0,
+          "sendlatenotifications": 0,
+          "sendstudentnotifications": 1,
+          "duedate": 1611566700,
+          "allowsubmissionsfromdate": 0,
+          "grade": 100,
+          "timemodified": 1611222328,
+          "completionsubmit": 0,
+          "cutoffdate": 1611567900,
+          "gradingduedate": 0,
+          "teamsubmission": 0,
+          "requireallteammemberssubmit": 0,
+          "teamsubmissiongroupingid": 0,
+          "blindmarking": 0,
+          "hidegrader": 0,
+          "revealidentities": 0,
+          "attemptreopenmethod": "none",
+          "maxattempts": -1,
+          "markingworkflow": 0,
+          "markingallocation": 0,
+          "requiresubmissionstatement": 0,
+          "preventsubmissionnotingroup": 0,
+          "configs": [
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxfilesubmissions",
+              "value": "20"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxsubmissionsizebytes",
+              "value": "346030080"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "filetypeslist",
+              "value": ""
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "commentinline",
+              "value": "0"
+            }
+          ],
+          "intro": "<p>Anbei findet ihr die L\u00f6sungen zu den \u00dcbungen, die ihr am 18.01. gemacht habt, und zu dem Arbeitsblatt, dass ihr am 19.01. gemacht habt. <br><\/p><p>Bitte vergleicht die L\u00f6sungen sorgf\u00e4ltig und genau. Fertigt eine Berichtigung eurer Aufgaben an und ladet ein Foto der Berichtung hoch.<\/p><p>LG<br><\/p>",
+          "introformat": 1,
+          "introfiles": [],
+          "introattachments": [
+            {
+              "filename": "L\u00f6sung Arbeitsblatt reflexive Verben.pdf",
+              "filepath": "\/",
+              "filesize": 667360,
+              "fileurl": "https:\/\/bonniweb.de\/moodle\/webservice\/pluginfile.php\/55950\/mod_assign\/introattachment\/0\/L%C3%B6sung%20Arbeitsblatt%20reflexive%20Verben.pdf",
+              "timemodified": 1611222328,
+              "mimetype": "application\/pdf",
+              "isexternalfile": false
+            },
+            {
+              "filename": "L\u00f6sungen zu Aufgaben vom 18.01..pdf",
+              "filepath": "\/",
+              "filesize": 158944,
+              "fileurl": "https:\/\/bonniweb.de\/moodle\/webservice\/pluginfile.php\/55950\/mod_assign\/introattachment\/0\/L%C3%B6sungen%20zu%20Aufgaben%20vom%2018.01..pdf",
+              "timemodified": 1611220961,
+              "mimetype": "application\/pdf",
+              "isexternalfile": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1259,
+      "fullname": "08-WP-Ku_Rat",
+      "shortname": "08-Ku_Rat",
+      "timemodified": 1596457027,
+      "assignments": [
+        {
+          "id": 3194,
+          "cmid": 16029,
+          "course": 1259,
+          "name": "Legetrickfilm BUDENKOLLER",
+          "nosubmissions": 0,
+          "submissiondrafts": 0,
+          "sendnotifications": 0,
+          "sendlatenotifications": 0,
+          "sendstudentnotifications": 1,
+          "duedate": 1610384400,
+          "allowsubmissionsfromdate": 1607986800,
+          "grade": 100,
+          "timemodified": 1610210705,
+          "completionsubmit": 0,
+          "cutoffdate": 1610386200,
+          "gradingduedate": 0,
+          "teamsubmission": 0,
+          "requireallteammemberssubmit": 0,
+          "teamsubmissiongroupingid": 0,
+          "blindmarking": 0,
+          "hidegrader": 0,
+          "revealidentities": 0,
+          "attemptreopenmethod": "none",
+          "maxattempts": -1,
+          "markingworkflow": 0,
+          "markingallocation": 0,
+          "requiresubmissionstatement": 0,
+          "preventsubmissionnotingroup": 0,
+          "configs": [
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxfilesubmissions",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxsubmissionsizebytes",
+              "value": "262144000"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "filetypeslist",
+              "value": ".mov,.mp4,web_video,html_video"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "commentinline",
+              "value": "0"
+            }
+          ],
+          "intro": "<p>Bitte die Aufgabe aus dem PDF entnehmen<\/p><p>Format: mp4, maximal 250 MB (lieber kleiner, bitte Datei komprimieren!)<\/p><p>Abgabe: 11. Januar 2021, 18:00 Uhr<\/p><p>Dateiname: SM-Budenkoller_Name<\/p><p>Ich w\u00fcnsche euch ein ruhiges und besinnliches Weihnachtsfest mit eurer Familie. Kommt alle gesund zur\u00fcck, hoffentlich am 11. Januar 2021. Sch\u00f6ne Ferien und liebe Gr\u00fc\u00dfe<\/p>",
+          "introformat": 1,
+          "introfiles": [],
+          "introattachments": [
+            {
+              "filename": "WP8_HJ-01_Aufgabe_Stop-Motion-Legetrickfilm.pdf",
+              "filepath": "\/",
+              "filesize": 90756,
+              "fileurl": "https:\/\/bonniweb.de\/moodle\/webservice\/pluginfile.php\/51917\/mod_assign\/introattachment\/0\/WP8_HJ-01_Aufgabe_Stop-Motion-Legetrickfilm.pdf",
+              "timemodified": 1608040306,
+              "mimetype": "application\/pdf",
+              "isexternalfile": false
+            }
+          ]
+        },
+        {
+          "id": 3600,
+          "cmid": 17239,
+          "course": 1259,
+          "name": "Breakfast, Lunch or Dinner",
+          "nosubmissions": 0,
+          "submissiondrafts": 0,
+          "sendnotifications": 0,
+          "sendlatenotifications": 0,
+          "sendstudentnotifications": 1,
+          "duedate": 1611241200,
+          "allowsubmissionsfromdate": 1610319600,
+          "grade": 0,
+          "timemodified": 1611238289,
+          "completionsubmit": 0,
+          "cutoffdate": 1611241500,
+          "gradingduedate": 0,
+          "teamsubmission": 0,
+          "requireallteammemberssubmit": 0,
+          "teamsubmissiongroupingid": 0,
+          "blindmarking": 0,
+          "hidegrader": 1,
+          "revealidentities": 0,
+          "attemptreopenmethod": "none",
+          "maxattempts": -1,
+          "markingworkflow": 0,
+          "markingallocation": 0,
+          "requiresubmissionstatement": 0,
+          "preventsubmissionnotingroup": 0,
+          "configs": [
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxfilesubmissions",
+              "value": "1"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "maxsubmissionsizebytes",
+              "value": "346030080"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignsubmission",
+              "name": "filetypeslist",
+              "value": "video,.m4v,.mov,.mp4"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignsubmission",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            },
+            {
+              "plugin": "comments",
+              "subtype": "assignfeedback",
+              "name": "commentinline",
+              "value": "0"
+            },
+            {
+              "plugin": "file",
+              "subtype": "assignfeedback",
+              "name": "enabled",
+              "value": "1"
+            }
+          ],
+          "intro": "<p><\/p><p>Liebe Sch\u00fcler*nnen,<\/p><p>das ist eure erste Aufgabe w\u00e4hrend des Lockdowns. Erstellt einen Stop Motion Film zum Thema \u201eBreakfast, Lunch or Dinner\u201c.&nbsp;<br><span style=\"font-size: 0.95rem;\"><b>Genauere Informationen dazu entnehmt ihr bitte dem Aufgabenblatt (PDF). Bitte haltet euch an die Vorgaben!<\/b><\/span><\/p>\r\n<p><b style=\"font-size: 0.95rem;\">Tools:&nbsp;<\/b><span style=\"font-size: 0.95rem;\">Trickbox, Licht, Handy, Stop Motion Studio App<\/span><br><\/p>\r\n<p><b style=\"font-size: 0.95rem;\">Bearbeitungszeitraum:&nbsp;<\/b><span style=\"font-size: 0.95rem;\">12.01. bis 21.01.2021 (4 Unterrichtsstunden)<\/span><br><b><\/b><\/p>\r\n<p><b style=\"font-size: 0.95rem;\">Filml\u00e4nge:&nbsp;<\/b><span style=\"font-size: 0.95rem;\">60 bis 90 Sekunden<\/span><\/p>\r\n<p><b style=\"font-size: 0.95rem;\">Tempo:&nbsp;<\/b><span style=\"font-size: 0.95rem;\">10 Bilder\/Sekunde<\/span><\/p>\r\n<p><b style=\"font-size: 0.95rem;\">Abgabe:&nbsp;<\/b><span style=\"font-size: 0.95rem;\">21.01.2021 bis 16:00 Uhr,&nbsp;<\/span><span style=\"font-size: 0.95rem;\">digital (mp4 Upload im Bonniweb)<\/span><\/p><p><\/p>",
+          "introformat": 1,
+          "introfiles": [],
+          "introattachments": [
+            {
+              "filename": "WP8_HJ-01_Aufgabe_Stop-Motion-Breakfast.pdf",
+              "filepath": "\/",
+              "filesize": 596436,
+              "fileurl": "https:\/\/bonniweb.de\/moodle\/webservice\/pluginfile.php\/53549\/mod_assign\/introattachment\/0\/WP8_HJ-01_Aufgabe_Stop-Motion-Breakfast.pdf",
+              "timemodified": 1610438617,
+              "mimetype": "application\/pdf",
+              "isexternalfile": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 495,
+      "fullname": "Stufe 8",
+      "shortname": "Stufe 8",
+      "timemodified": 1535021724,
+      "assignments": []
+    }
+  ],
+  "warnings": [
+    {
+      "item": "module",
+      "itemid": 18815,
+      "warningcode": "1",
+      "message": "No access rights in module context"
+    },
+    {
+      "item": "module",
+      "itemid": 16497,
+      "warningcode": "1",
+      "message": "No access rights in module context"
+    },
+    {
+      "item": "module",
+      "itemid": 16525,
+      "warningcode": "1",
+      "message": "No access rights in module context"
+    },
+    {
+      "item": "module",
+      "itemid": 16214,
+      "warningcode": "1",
+      "message": "No access rights in module context"
+    },
+    {
+      "item": "module",
+      "itemid": 18469,
+      "warningcode": "1",
+      "message": "No access rights in module context"
+    },
+    {
+      "item": "module",
+      "itemid": 12593,
+      "warningcode": "1",
+      "message": "No access rights in module context"
+    },
+    {
+      "item": "module",
+      "itemid": 11660,
+      "warningcode": "1",
+      "message": "No access rights in module context"
+    },
+    {
+      "item": "module",
+      "itemid": 13890,
+      "warningcode": "1",
+      "message": "No access rights in module context"
+    },
+    {
+      "item": "module",
+      "itemid": 15543,
+      "warningcode": "1",
+      "message": "No access rights in module context"
+    },
+    {
+      "item": "module",
+      "itemid": 16220,
+      "warningcode": "1",
+      "message": "No access rights in module context"
+    },
+    {
+      "item": "module",
+      "itemid": 15817,
+      "warningcode": "1",
+      "message": "No access rights in module context"
+    },
+    {
+      "item": "module",
+      "itemid": 16252,
+      "warningcode": "1",
+      "message": "No access rights in module context"
+    },
+    {
+      "item": "module",
+      "itemid": 17147,
+      "warningcode": "1",
+      "message": "No access rights in module context"
+    },
+    {
+      "item": "module",
+      "itemid": 15977,
+      "warningcode": "1",
+      "message": "No access rights in module context"
+    },
+    {
+      "item": "module",
+      "itemid": 17071,
+      "warningcode": "1",
+      "message": "No access rights in module context"
+    },
+    {
+      "item": "module",
+      "itemid": 17339,
+      "warningcode": "1",
+      "message": "No access rights in module context"
+    },
+    {
+      "item": "module",
+      "itemid": 17788,
+      "warningcode": "1",
+      "message": "No access rights in module context"
+    },
+    {
+      "item": "module",
+      "itemid": 18361,
+      "warningcode": "1",
+      "message": "No access rights in module context"
+    },
+    {
+      "item": "module",
+      "itemid": 14117,
+      "warningcode": "1",
+      "message": "No access rights in module context"
+    },
+    {
+      "item": "module",
+      "itemid": 14871,
+      "warningcode": "1",
+      "message": "No access rights in module context"
+    },
+    {
+      "item": "module",
+      "itemid": 15310,
+      "warningcode": "1",
+      "message": "No access rights in module context"
+    }
+  ]
+}

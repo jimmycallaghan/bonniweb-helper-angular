@@ -1,0 +1,35 @@
+export class Assignment {
+  constructor(
+    public id: number,
+    public cmid: number,
+    public course: number,
+    public name: string,
+    public nosubmissions: number,
+    public submissiondrafts: number,
+    public sendnotifications: number,
+    public sendlatenotifications: number,
+    public sendstudentnotifications: number,
+    public duedate: number,
+    public allowsubmissionsfromdate: number,
+    public grade: number,
+    public timemodified: number,
+    public completionsubmit: number,
+    public cutoffdate: number,
+    public gradingduedate: number,
+    public teamsubmission: number,
+    public requireallteammemberssubmit: number,
+    public teamsubmissiongroupingid: number,
+    public blindmarking: number,
+    public hidegrader: number,
+    public revealidentities: number,
+    public attemptreopenmethod: string,
+    public maxattempts: number,
+    public markingworkflow: number,
+    public markingallocation: number,
+    public requiresubmissionstatement: number,
+    public preventsubmissionnotingroup: number,
+    public intro: string,
+    public introformat: number
+  ) {
+  }
+}
