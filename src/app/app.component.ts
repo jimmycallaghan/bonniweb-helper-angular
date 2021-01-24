@@ -3,22 +3,53 @@ import {HttpClient, HttpParams} from '@angular/common/http';
 import {LoginResponse} from './model/login-response.model';
 import {TasksResponse} from './model/tasks-response.model';
 import {TaskEntry} from './model/task-entry.model';
+import {TaskSubmissionResponse} from './model/task-submission-response.model';
+import {User} from './model/user.model';
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  styles: [`
+    .rowGreen {
+      background-color: #C8E6C9 !important;
+    }
+  `]
 })
 export class AppComponent implements OnInit {
   title = 'bonni-helper';
 
   token: string;
   tasks: TaskEntry[] = [];
+  selectedUser: User;
+  users: User[];
 
-  constructor(private http: HttpClient) {}
+  constructor(private http: HttpClient) {
+  }
 
   ngOnInit(): void {
-    this.http.post<LoginResponse>('http://localhost:8080/login', null)
+
+    this.users = [
+      new User('julian', 'call_jul', 'ABC123abd'),
+      new User('leon', 'call_leo', 'Bobo!321')
+    ];
+
+    console.log(this.users);
+
+    this.loadData('julian');
+  }
+
+  onChangeUser(): void {
+    this.loadData(this.selectedUser.user);
+  }
+
+  loadData(user: string): void {
+
+    this.tasks = [];
+
+    let loginParams = new HttpParams();
+    loginParams = loginParams.append('user', user);
+
+    this.http.post<LoginResponse>('http://localhost:8080/login', null, {params: loginParams})
       .toPromise()
       .then((lr: LoginResponse) => {
         console.log(lr);
@@ -34,15 +65,21 @@ export class AppComponent implements OnInit {
             data.courses.forEach(course => {
               const courseName = course.fullname;
               if (course.assignments.length === 0) {
-                this.tasks.push(new TaskEntry(courseName, 'No tasks', new Date(0)));
+                this.tasks.push(new TaskEntry(null, courseName, 'No tasks', new Date(0), null));
               } else {
                 course.assignments.forEach(assignment => {
-                  this.tasks.push(new TaskEntry(courseName, assignment.name, new Date(assignment.duedate * 1000)));
+                  console.log(assignment);
+                  let subbyParams = new HttpParams();
+                  subbyParams = subbyParams.append('token', this.token);
+                  subbyParams = subbyParams.append('assignid', assignment.id + '');
+                  this.http.get<TaskSubmissionResponse>('http://localhost:8080/tasksSubmission', {params: subbyParams})
+                    .toPromise().then(submission => {
+                    this.tasks.push(new TaskEntry(assignment.cmid, courseName, assignment.name, new Date(assignment.duedate * 1000), submission));
+                    this.tasks = this.tasks.sort((a, b) => b.dueDate.getTime() - a.dueDate.getTime());
+                  });
                 });
               }
             });
-
-            this.tasks = this.tasks.sort((a, b) => b.dueDate.getTime() - a.dueDate.getTime());
 
             console.log(this.tasks);
           });

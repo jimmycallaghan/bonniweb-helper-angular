@@ -1,17 +1,27 @@
-
+<p-dropdown [options]="users"
+            [(ngModel)]="selectedUser"
+            placeholder="Select a User"
+            optionLabel="user"
+            [showClear]="false"
+            (onChange)="onChangeUser()"
+></p-dropdown>
 <p-table [value]="tasks">
   <ng-template pTemplate="header">
     <tr>
       <th>Course</th>
       <th>Task Name</th>
       <th>Due Date</th>
+      <th>Submitted</th>
+      <th>Submitted Date</th>
     </tr>
   </ng-template>
   <ng-template pTemplate="body" let-task>
-    <tr>
+    <tr [ngClass]="task.issubmitted ? 'rowGreen' : ''">
       <td>{{task.courseName}}</td>
-      <td>{{task.taskName}}</td>
+      <td><a target="_blank" href="https://bonniweb.de/moodle/mod/assign/view.php?id={{task.assignid}}">{{task.taskName}}</a></td>
       <td>{{task.dueDate | date:'dd.MM.yyyy HH:mm'}}</td>
+      <td>{{task.issubmitted}}</td>
+      <td>{{task && task.error ? task.error : task.timesubmitted | date:'dd.MM.yyyy HH:mm'}}</td>
     </tr>
   </ng-template>
 </p-table>
